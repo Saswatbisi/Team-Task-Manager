@@ -41,15 +41,8 @@ Want to play around with the code on your own machine? It's super easy:
    ```bash
    npm run install-all
    ```
-3. **Set up your environment**:
-   Head over to the `backend` folder and create a file named `.env`. Add the following lines to it:
-   ```env
-   PORT=5000
-   MONGO_URI=mongodb://localhost:27017/taskmanager
-   JWT_SECRET=supersecretjwtkey_12345
-   NODE_ENV=development
-   ```
-4. **Fire it up!**
+
+3. **Fire it up!**
    ```bash
    npm run dev
    ```
