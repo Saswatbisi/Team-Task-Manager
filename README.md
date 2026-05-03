@@ -214,12 +214,6 @@ JWT_SECRET=your_secret_key
 
 ---
 
-# 📸 Screenshots
-
-*(Add screenshots here for better evaluation)*
-
----
-
 # 📈 Future Improvements
 
 * Notifications (email / in-app)
@@ -238,14 +232,6 @@ This project demonstrates:
 * Authentication & authorization
 * Real-world task management workflow
 
----
 
-# 📬 Submission
-
-* ✅ Live URL
-* ✅ GitHub Repository
-* ✅ README
-
----
 
 ⭐ Feel free to explore, use, or improve this project!
